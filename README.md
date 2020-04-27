@@ -23,3 +23,6 @@
 
 [Clip Video](https://youtu.be/K6LONyLst94)
  
+- การสร้าง Github page
+
+[Clip Video](https://youtu.be/U4lrBYiphQc)
